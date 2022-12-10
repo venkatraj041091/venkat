@@ -1,0 +1,22 @@
+{
+	"name": "durai",
+	"emailid": "thermo",
+	"phoneno": 56858555,
+	"employee": [
+		{
+			"firstname": "durai",
+			"course": "thermo",
+			"address": "trichy"
+		},
+		{
+			"firstname": "durai",
+			"course": "thermo",
+			"address": "trichy"
+		},
+		{
+			"firstname": "durai",
+			"course": "thermo",
+			"address": "trichy"
+		}
+	]
+}
